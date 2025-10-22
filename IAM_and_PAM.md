@@ -1,15 +1,10 @@
 # IAM & PAM Technical Report
 
-**Prepared:** 2025-09-12
-**Audience:** Management, CISOs, IT & Security Teams
-
----
-
 ## Executive Summary
 
 Identity is the new perimeter. Identity and Access Management (IAM) and Privileged Access Management (PAM) are foundational controls for securing modern hybrid, cloud-first enterprises. IAM manages who can access what, when, and how; PAM protects, monitors, and controls accounts that have elevated privileges and can cause outsized damage if compromised.
 
-Adopting IAM + PAM reduces risk from credential theft, lateral movement, insider misuse, and supply-chain compromises, while enabling compliance, auditability, and operational efficiency. Leading solutions in 2025 emphasize passwordless authentication (FIDO2/WebAuthn), adaptive risk-based access, identity governance, and just-in-time privileged access
+Adopting IAM + PAM reduces risk from credential theft, lateral movement, insider misuse, and supply-chain compromises, while enabling compliance, auditability, and operational efficiency. Leading solutions in 2025 emphasise passwordless authentication (FIDO2/WebAuthn), adaptive risk-based access, identity governance, and just-in-time privileged access
 
 ---
 
