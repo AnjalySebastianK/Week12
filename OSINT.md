@@ -63,7 +63,7 @@ Maltego is a **graphical link analysis and data visualisation tool**.
 
 **Practical Example:**
 
-- Start with `brototype.com`
+- Start with `sjcetpalai.ac.in`
 - Run `Domain → To DNS Names` → discovers subdomains
 - Run `Domain → To IPs` → maps which servers host these subdomains
 - Run `IP → To Reverse DNS / To Domains on same IP` → finds co-hosted domains
@@ -81,7 +81,7 @@ Google Dorks are **advanced search queries** designed to find sensitive or hidde
 
 | Operator | Example | Purpose |
 |----------|---------|---------|
-| `site:` | `site:brototype.com` | Search within a specific domain |
+| `site:` | `site:sjcetpalai.ac.in` | Search within a specific domain |
 | `filetype:` | `filetype:pdf` | Find files of a specific type |
 | `intitle:` | `intitle:"index of"` | Detect directory listings |
 | `inurl:` | `inurl:admin` | Locate login portals |
@@ -89,9 +89,8 @@ Google Dorks are **advanced search queries** designed to find sensitive or hidde
 **Examples of High-Value Dorks:**
 
 ```text
-site:brototype.com filetype:sql
-site:brototype.com intext:"password"
-site:github.com "brototype.com" "apikey"
+site:sjcetpalai.ac.in filetype:pdf
+site:sjcetpalai.ac.in intext:"password"
 ```
 
 **Caution:**  
