@@ -123,14 +123,6 @@ Shodan is the "**search engine for Internet-connected devices**".
 - Scans internet-connected devices for open ports and banners
 - Indexes server types, versions, protocols, and metadata
 
-**Practical Searches:**
-
-```text
-port:27017 hostname:"brototype.com"  # MongoDB instances
-product:"Apache" port:80              # Apache web servers
-org:"Brototype"                        # All devices associated with the organisation
-```
-
 **Purpose:**  
 - Discover exposed servers, IoT devices, and services  
 - Detect misconfigurations or outdated software  
